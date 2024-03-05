@@ -1,5 +1,9 @@
 main.cpp is question 2 using a Vector without using the class written in question 1. 
+
+
 main_linked.cpp is question 2 using the class written in question 1. 
+
+
 Both work the same as far as input and output are concerned. 
 
 1. When the program is run it checks if the stack is empty. Returns Yes or No.
